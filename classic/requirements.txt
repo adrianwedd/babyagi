@@ -1,2 +1,2 @@
-openai==0.27.10
+openai==0.28.0
 pinecone-client==2.2.2
