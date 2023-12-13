@@ -6,3 +6,4 @@ python-dotenv==1.0.0
 tiktoken==0.3.3
 llama-cpp-python>=0.1.42
 pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
