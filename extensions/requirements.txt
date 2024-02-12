@@ -3,3 +3,4 @@ pinecone-client==2.2.1
 llama-cpp-python>=0.1.35
 weaviate-client>=3.16.1
 numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
